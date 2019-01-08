@@ -4,7 +4,7 @@ section: introduction
 locale: it-IT
 ---
  
-<span class="first-line"><span class="first-letter">AAAA</span> is always changing.</span> New libraries, new frameworks, new languages… It's part of the fun, but it can also feel overwhelming sometimes. 
+<span class="first-line"><span class="first-letter">JavaScriptITA</span> aaaa is always changing.</span> New libraries, new frameworks, new languages… It's part of the fun, but it can also feel overwhelming sometimes. 
 
 That's where the State of JavaScript survey comes in: this year, we surveyed over 20,000 JavaScript developers to figure out what they're using, what they're happy with, and what they want to learn. And the result is a unique collection of stats and insights that will hopefully help you make your own way through the JavaScript ecosystem. 
 
