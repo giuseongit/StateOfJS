@@ -36,7 +36,7 @@ translations:
     - key: percentage_of_respondents
       t: ${percentage} di risposte
     - key: partners.premium_partners
-      t:I nostri Premium Partners del 2018
+      t: I nostri Premium Partners del 2018
     - key: partners.become_partner
       t: Diventa un partner
     - key: partners.thanks
