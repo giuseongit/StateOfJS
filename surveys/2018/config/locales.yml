@@ -10,3 +10,6 @@
   path:   cn
   label:  简体中文
 
+- locale: it-IT
+  path:   it
+  label:  Italiano

@@ -1,7 +1,7 @@
 ---
 type: introduction
 section: back-end-frameworks
-locale: en-US
+locale: it-IT
 ---
  JavaScript on the back-end hasn't seen any major breakthroughs in recent years. 
 But compared to the rest of the ecosystem's frenetic pace,
